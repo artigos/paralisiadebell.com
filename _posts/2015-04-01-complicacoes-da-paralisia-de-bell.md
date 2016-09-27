@@ -3,11 +3,11 @@ layout: default
 title: Complicações da Paralisia de Bell
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A Paralisia de Bell é uma condição que habitualmente não tem sequelas definitivas e da qual a maioria dos pacientes se recuperam na totalidade em cerca de 4 semanas após os primeiros sintomas. Caraterizada pela paralisia facial unilateral, a Paralisia de Bell é uma condição que, mesmo sem qualquer tratamento, tem boas hipóteses de desaparecer totalmente sem deixar qualquer tipo de sequelas, no entanto, podem existir casos em que o paciente poderá sofrer consequências crónicas.
 
-##Principais Complicações da Paralisia de Bell
+## Principais Complicações da Paralisia de Bell
 
 Uma das maiores complicações da Paralisia de Bell prende-se com os olhos, pois, em casos extremos, o paciente pode ficar impedido de movimentar o olho causando a sua desidratação. Se não for hidratada e protegida a córnea pode sofrer lesões, devendo-se nestes casos proteger o olho com tapadores ou recorrendo à lágrima artificial. É importante para evitar complicações manter os níveis de hidratação o mais próximo possível de uma situação normal.
 
@@ -25,7 +25,7 @@ Outra complicação da Paralisia de Bell que pode ocorrer é a sincinesia. Esta 
 
 * Sincinesia
 
-##Como prevenir as complicações na Paralisia de Bell
+## Como prevenir as complicações na Paralisia de Bell
 
 A Paralisia de Bell é uma condição que, no geral, é simples de curar. Mesmo sem qualquer tratamento, a maioria dos pacientes se recupera totalmente não ficando com qualquer sequela. No entanto, o ideal é sempre ter acompanhamento de um médico que irá realizar os testes necessários e verificar se existe necessidade de medicação ou mesmo intervenção cirúrgica. Os resultados mostram que quanto mais cedo se inicia o tratamento, mais provável é que a Paralisia de Bell seja totalmente curada.
 
